@@ -6,6 +6,13 @@ resource "aws_s3_bucket" "my_bucket" {
   bucket = "keswar01"  # Change this to a globally unique name
 }
 
+# Optional: Enable versioning
+resource "aws_s3_bucket_versioning" "versioning_example" {
+  bucket = aws_s3_bucket.my_bucket.id
+  versioning_configuration {
+    status = "Enabled"
+  }
+}
 
 # Output the bucket name
 output "s3_bucket_name" {
