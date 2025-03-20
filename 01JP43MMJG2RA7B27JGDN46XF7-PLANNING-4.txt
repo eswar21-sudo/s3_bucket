@@ -1,0 +1,20 @@
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mPlanning changes with 1 custom hook...
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mChanges are GO
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mUploading the list of managed resources...
+[0;33m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mPlease be aware that the run changes calculation includes output changes.
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mResource list upload is GO
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mGenerating JSON representation of the plan...
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mJSON representation is GO
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mLoading custom plan policy inputs...
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0m0 custom plan policy inputs found
+[0;36m[01JP3H4CWBRBP8CDX4B7FQDDM1] [0mNo plan policies to evaluate
